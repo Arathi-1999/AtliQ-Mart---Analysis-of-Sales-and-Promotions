@@ -15,4 +15,4 @@ AtliQ Mart is a retail giant with over 50 supermarkets in southern region of Ind
    
 
 # Live dashboard:
-# https://app.powerbi.com/view?r=eyJrIjoiNjZhNjM5YTAtMjljZi00NWFmLWI0ZjYtNzAxMzFmZjUxMTliIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+https://app.powerbi.com/view?r=eyJrIjoiNjZhNjM5YTAtMjljZi00NWFmLWI0ZjYtNzAxMzFmZjUxMTliIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
