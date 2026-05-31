@@ -31,11 +31,11 @@ https://app.powerbi.com/view?r=eyJrIjoiNjZhNjM5YTAtMjljZi00NWFmLWI0ZjYtNzAxMzFmZ
 
 **1. Store Performance Analysis** 
 
-** Store Performance:** 
+**Store Performance:** 
   * Bengaluru led in incremental revenue across both campaigns, followed by Chennai and Mysuru.
   * Vijayawada and Trivandrum showed weak uplift, while Visakhapatnam underperformed despite high store presence.
     
-** Promotion Type:** 
+**Promotion Type:** 
   * BOGOF drove the highest unit growth, while 500 Cashback generated the strongest revenue impact. Flat discounts (25%, 33%, 50% OFF) negatively affected revenue.
     
 **Product & Category:**
