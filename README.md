@@ -22,13 +22,10 @@ To evaluate promotion effectiveness across stores, products, and categories usin
 
 3. Product and Category Analysis - Analyze the performance of category and product.
    
-
-# Live dashboard:
-
-https://app.powerbi.com/view?r=eyJrIjoiNjZhNjM5YTAtMjljZi00NWFmLWI0ZjYtNzAxMzFmZjUxMTliIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+## Live Interactive Dashboard 
+**https://app.powerbi.com/view?r=eyJrIjoiOTQ0MzJjMmMtYjY1ZC00NWUwLWI0YWQtZWQ0MjZkMDNjOTVkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
 
 ## Key Insights: 
-
 
 **1. Store Performance:** 
   * Bengaluru led in incremental revenue across both campaigns, followed by Chennai and Mysuru.
@@ -41,5 +38,4 @@ https://app.powerbi.com/view?r=eyJrIjoiNjZhNjM5YTAtMjljZi00NWFmLWI0ZjYtNzAxMzFmZ
   * Combo packs delivered the highest revenue with higher basket value.
   *  Grocery & Staples drove volume, especially during Sankranti. Personal Care underperformed.
 
-## Live Interactive Dashboard 
-**https://app.powerbi.com/view?r=eyJrIjoiOTQ0MzJjMmMtYjY1ZC00NWUwLWI0YWQtZWQ0MjZkMDNjOTVkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
+
