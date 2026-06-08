@@ -40,3 +40,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNjZhNjM5YTAtMjljZi00NWFmLWI0ZjYtNzAxMzFmZ
 **3. Product & Category:**
   * Combo packs delivered the highest revenue with higher basket value.
   *  Grocery & Staples drove volume, especially during Sankranti. Personal Care underperformed.
+
+## Live Interactive Dashboard 
+**https://app.powerbi.com/view?r=eyJrIjoiOTQ0MzJjMmMtYjY1ZC00NWUwLWI0YWQtZWQ0MjZkMDNjOTVkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
